@@ -6,5 +6,9 @@
       "express": "2.5.8"
     , "jade": ">= 0.0.1",
 	"restler": "0.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndreyVol/Node-Force.com-REST-Demo.git"
+  },
 }
